@@ -10,20 +10,12 @@ class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
         if root is None:
             return 0
-        q=deque([root])
-        count=1
+    
+        left = self.minDepth(root.left)
+        right = self.minDepth(root.right)
 
-        while q:
-            for i in range(len(q)):
-                node=q.popleft()
-                if node.left ==None and node.right==None:
-                    return count
+        if not root.left or not root.right:
+            return 1 + max(left,right)
 
-                if node.left:
-                    q.append(node.left)
+        return 1 + min(left,right)
 
-                if node.right:
-                    q.append(node.right)
-
-            count+=1
-        return count
