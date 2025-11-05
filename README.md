@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mishra-coder/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Mishra-coder/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
