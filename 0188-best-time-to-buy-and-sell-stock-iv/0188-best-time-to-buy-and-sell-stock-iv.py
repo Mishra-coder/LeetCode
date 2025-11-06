@@ -1,6 +1,5 @@
 class Solution:
     def maxProfit(self, k: int, prices: List[int]) -> int:
-    # return prices
         n = len(prices)
         if k>=n//2:        #infinite transaction
             total_profit = 0
@@ -17,4 +16,9 @@ class Solution:
                 buy[t] = min(buy[t],price-profit[t-1])
                 profit[t] = max(profit[t],price-buy[t])
         return profit[k]
-            
+
+
+
+
+
+        
