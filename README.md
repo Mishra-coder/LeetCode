@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Mishra-coder/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mishra-coder/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 ## Trie
 |  |
 | ------- |
