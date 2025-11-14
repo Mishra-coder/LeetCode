@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mishra-coder/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mishra-coder/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mishra-coder/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mishra-coder/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mishra-coder/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
@@ -135,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
