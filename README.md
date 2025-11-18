@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mishra-coder/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mishra-coder/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mishra-coder/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/Mishra-coder/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Mishra-coder/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Mishra-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/Mishra-coder/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Mishra-coder/LeetCode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mishra-coder/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mishra-coder/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/Mishra-coder/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Array
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mishra-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mishra-coder/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Mishra-coder/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
