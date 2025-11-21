@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/Mishra-coder/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mishra-coder/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mishra-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mishra-coder/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mishra-coder/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Mishra-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mishra-coder/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mishra-coder/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mishra-coder/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mishra-coder/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mishra-coder/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Minimum Spanning Tree
 |  |
