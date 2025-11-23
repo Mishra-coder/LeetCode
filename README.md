@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mishra-coder/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mishra-coder/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mishra-coder/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mishra-coder/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1236-n-th-tribonacci-number](https://github.com/Mishra-coder/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mishra-coder/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mishra-coder/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mishra-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mishra-coder/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mishra-coder/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
