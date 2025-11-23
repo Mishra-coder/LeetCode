@@ -4,31 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        total = sum(nums)
-        if total % 3 == 0:
-            return total
+        dp = [0, float('-inf'), float('-inf')]
 
-        rem1 = list()
-        rem2 = list()
-        for n in nums:
-            if n % 3 == 1:
-                rem1.append(n)
-            elif n % 3 == 2:
-                rem2.append(n)
-        
-        rem1.sort()
-        rem2.sort()
-        
-        candidates = [0]
-        if total % 3 == 1:
-            if rem1:
-                candidates.append(total - rem1[0])
-            if len(rem2) >= 2:
-                candidates.append(total - rem2[0] - rem2[1])
-        else:
-            if rem2:
-                candidates.append(total - rem2[0])
-            if len(rem1) >= 2:
-                candidates.append(total - rem1[0] - rem1[1])
-        
-        return max(candidates)
+        for x in nums:
+            r = x % 3
+            dp_old = dp[:]  
+            for j in range(3):
+                new_r = (j + r) % 3
+                dp[new_r] = max(dp[new_r], dp_old[j] + x)
+
+        return dp[0]
