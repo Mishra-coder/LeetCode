@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Mishra-coder/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0563-binary-tree-tilt](https://github.com/Mishra-coder/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Mishra-coder/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Mishra-coder/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mishra-coder/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mishra-coder/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Mishra-coder/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
