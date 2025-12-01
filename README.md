@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mishra-coder/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Mishra-coder/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mishra-coder/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mishra-coder/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Mishra-coder/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mishra-coder/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Mishra-coder/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mishra-coder/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mishra-coder/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mishra-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Mishra-coder/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mishra-coder/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Database
 |  |
 | ------- |
