@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mishra-coder/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mishra-coder/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mishra-coder/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mishra-coder/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mishra-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Mishra-coder/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mishra-coder/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mishra-coder/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Database
 |  |
