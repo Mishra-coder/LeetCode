@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Mishra-coder/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mishra-coder/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/Mishra-coder/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3637-trionic-array-i](https://github.com/Mishra-coder/LeetCode/tree/master/3637-trionic-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
