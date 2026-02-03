@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mishra-coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Mishra-coder/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Mishra-coder/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mishra-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mishra-coder/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Mishra-coder/LeetCode/tree/master/0118-pascals-triangle) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mishra-coder/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mishra-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mishra-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
