@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mishra-coder/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/Mishra-coder/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/Mishra-coder/LeetCode/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Mishra-coder/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Mishra-coder/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Mishra-coder/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/Mishra-coder/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Backtracking
 |  |
 | ------- |
