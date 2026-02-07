@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mishra-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Mishra-coder/LeetCode/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Mishra-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mishra-coder/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mishra-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mishra-coder/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mishra-coder/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mishra-coder/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mishra-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
