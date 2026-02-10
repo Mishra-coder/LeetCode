@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Mishra-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Mishra-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mishra-coder/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mishra-coder/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Mishra-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mishra-coder/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mishra-coder/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
