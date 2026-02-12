@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mishra-coder/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Mishra-coder/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Mishra-coder/LeetCode/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mishra-coder/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mishra-coder/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Mishra-coder/LeetCode/tree/master/0495-teemo-attacking) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mishra-coder/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3379-transformed-array](https://github.com/Mishra-coder/LeetCode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Mishra-coder/LeetCode/tree/master/3433-count-mentions-per-user) |
