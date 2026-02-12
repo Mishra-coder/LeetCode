@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mishra-coder/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Mishra-coder/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Mishra-coder/LeetCode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Mishra-coder/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mishra-coder/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
