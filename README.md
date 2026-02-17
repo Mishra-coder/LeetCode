@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Mishra-coder/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Mishra-coder/LeetCode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Mishra-coder/LeetCode/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mishra-coder/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mishra-coder/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mishra-coder/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mishra-coder/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/Mishra-coder/LeetCode/tree/master/0705-design-hashset) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mishra-coder/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mishra-coder/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mishra-coder/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Mishra-coder/LeetCode/tree/master/0705-design-hashset) |
 ## Segment Tree
 |  |
 | ------- |
@@ -447,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Mishra-coder/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Mishra-coder/LeetCode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Mishra-coder/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
