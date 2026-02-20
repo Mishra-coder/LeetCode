@@ -4,7 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-
         freq = {}
         for n in nums:
             freq[n] = freq.get(n, 0) + 1
