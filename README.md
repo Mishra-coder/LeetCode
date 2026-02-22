@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Mishra-coder/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Mishra-coder/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Mishra-coder/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mishra-coder/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mishra-coder/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mishra-coder/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Mishra-coder/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mishra-coder/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mishra-coder/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Mishra-coder/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0500-keyboard-row](https://github.com/Mishra-coder/LeetCode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
