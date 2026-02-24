@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0598-range-addition-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Mishra-coder/LeetCode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/Mishra-coder/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Mishra-coder/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Mishra-coder/LeetCode/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mishra-coder/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mishra-coder/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mishra-coder/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0697-degree-of-an-array](https://github.com/Mishra-coder/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Mishra-coder/LeetCode/tree/master/0705-design-hashset) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mishra-coder/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
