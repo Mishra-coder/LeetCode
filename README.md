@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Mishra-coder/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mishra-coder/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Mishra-coder/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Mishra-coder/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mishra-coder/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Mishra-coder/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mishra-coder/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mishra-coder/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mishra-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mishra-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0598-range-addition-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mishra-coder/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/Mishra-coder/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mishra-coder/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
