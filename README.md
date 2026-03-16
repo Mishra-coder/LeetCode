@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Mishra-coder/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Mishra-coder/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Mishra-coder/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Mishra-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mishra-coder/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Mishra-coder/LeetCode/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Mishra-coder/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Mishra-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Mishra-coder/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Mishra-coder/LeetCode/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/Mishra-coder/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Mishra-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## String Matching
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/Mishra-coder/LeetCode/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Mishra-coder/LeetCode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Mishra-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mishra-coder/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3379-transformed-array](https://github.com/Mishra-coder/LeetCode/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Mishra-coder/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Mishra-coder/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mishra-coder/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0832-flipping-an-image](https://github.com/Mishra-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mishra-coder/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mishra-coder/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Queue
