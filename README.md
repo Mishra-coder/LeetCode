@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Mishra-coder/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Mishra-coder/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/Mishra-coder/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/Mishra-coder/LeetCode/tree/master/0819-most-common-word) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mishra-coder/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Mishra-coder/LeetCode/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/Mishra-coder/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Mishra-coder/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Mishra-coder/LeetCode/tree/master/0819-most-common-word) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mishra-coder/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mishra-coder/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0748-shortest-completing-word](https://github.com/Mishra-coder/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Mishra-coder/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Mishra-coder/LeetCode/tree/master/0819-most-common-word) |
 | [1250-longest-common-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mishra-coder/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Mishra-coder/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mishra-coder/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0819-most-common-word](https://github.com/Mishra-coder/LeetCode/tree/master/0819-most-common-word) |
 | [3713-longest-balanced-substring-i](https://github.com/Mishra-coder/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
