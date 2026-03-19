@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Mishra-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Mishra-coder/LeetCode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/Mishra-coder/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mishra-coder/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mishra-coder/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mishra-coder/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Mishra-coder/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mishra-coder/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/Mishra-coder/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mishra-coder/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mishra-coder/LeetCode/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/Mishra-coder/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Mishra-coder/LeetCode/tree/master/0832-flipping-an-image) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mishra-coder/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mishra-coder/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## String Matching
 |  |
@@ -529,4 +532,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Mishra-coder/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Mishra-coder/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
