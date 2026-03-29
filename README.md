@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mishra-coder/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Mishra-coder/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Mishra-coder/LeetCode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Mishra-coder/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0500-keyboard-row](https://github.com/Mishra-coder/LeetCode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mishra-coder/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mishra-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mishra-coder/LeetCode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Mishra-coder/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0598-range-addition-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mishra-coder/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Mishra-coder/LeetCode/tree/master/0812-largest-triangle-area) |
