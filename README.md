@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mishra-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mishra-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Mishra-coder/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mishra-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mishra-coder/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mishra-coder/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Mishra-coder/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mishra-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Mishra-coder/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/Mishra-coder/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mishra-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Mishra-coder/LeetCode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mishra-coder/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Mishra-coder/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mishra-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/Mishra-coder/LeetCode/tree/master/0819-most-common-word) |
