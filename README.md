@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Mishra-coder/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Mishra-coder/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Mishra-coder/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Mishra-coder/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mishra-coder/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mishra-coder/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mishra-coder/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/Mishra-coder/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Mishra-coder/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Mishra-coder/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Mishra-coder/LeetCode/tree/master/0832-flipping-an-image) |
