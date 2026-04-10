@@ -1,0 +1,16 @@
+class Solution(object):
+    def maxRepeating(self, sequence, word):
+        """
+        :type sequence: str
+        :type word: str
+        :rtype: int
+        """
+        k = 0
+        temp = word
+
+        while temp in sequence:
+            k += 1
+            temp += word
+
+        return k
+        
