@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mishra-coder/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Mishra-coder/LeetCode/tree/master/0942-di-string-match) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mishra-coder/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Mishra-coder/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Mishra-coder/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mishra-coder/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/Mishra-coder/LeetCode/tree/master/0942-di-string-match) |
 ## Greedy
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Mishra-coder/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0860-lemonade-change](https://github.com/Mishra-coder/LeetCode/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Mishra-coder/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/Mishra-coder/LeetCode/tree/master/0942-di-string-match) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mishra-coder/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mishra-coder/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mishra-coder/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Mishra-coder/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Mishra-coder/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Mishra-coder/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0942-di-string-match](https://github.com/Mishra-coder/LeetCode/tree/master/0942-di-string-match) |
 | [1250-longest-common-subsequence](https://github.com/Mishra-coder/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Mishra-coder/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/Mishra-coder/LeetCode/tree/master/1668-maximum-repeating-substring) |
